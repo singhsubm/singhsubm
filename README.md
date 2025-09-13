@@ -15,6 +15,13 @@
 
 ![NOTE](https://img.shields.io/badge/Note-Please%20don't%20take%20the%20above%20thing%20too%20seriously.%20This%20is%20only%20for%20me.-orange?style=for-the-badge&logoWidth=20)
 
+## 🏅 Leetcode Badges:
+<p align="center" target="_blank rel="noopener noreferrer"">
+  <a href="https://leetcode.com/u/singhsubm/">
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 days Badge" width="100" />
+  </a>
+</p>
+
 
 
 
