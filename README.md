@@ -20,6 +20,9 @@
   <a href="https://leetcode.com/u/singhsubm/">
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 days Badge" width="100" />
   </a>
+    <!--<a href="https://leetcode.com/u/singhsubm/">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100" alt="Badge 1" />
+  </a>-->
 </p>
 
 
