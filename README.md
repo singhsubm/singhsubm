@@ -37,8 +37,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhsubm&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsubm&theme=blue-green&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhsubm&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsubm&theme=blue-green&hide_border=false" width="40%" height="100%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsubm&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" />
     <img src="https://github-contributor-stats.vercel.app/api?username=singhsubm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
